@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Whatsapp" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Theme.Whatsapp" parent="Base.Theme.Whatsapp" />
+</resources>
